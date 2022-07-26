@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;Qiushi Pan 2018-2019</copyright>
-    <lastBuildDate>Mon, 25 Jul 2022 15:50:12 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jul 2022 16:22:30 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Test 2</title>
+      <link>https://happysxpp.github.io/posts/blog-test-2/</link>
+      <pubDate>Mon, 25 Jul 2022 16:22:30 +0800</pubDate>
+      
+      <guid>https://happysxpp.github.io/posts/blog-test-2/</guid>
+      <description>添加文件测试 更新测测试测试</description>
+    </item>
+    
     <item>
       <title>Blog Test</title>
       <link>https://happysxpp.github.io/posts/blog-test/</link>
