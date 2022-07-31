@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>frustum on Happy&#39;s Blog</title>
+    <link>https://happysxpp.github.io/tags/frustum/</link>
+    <description>Recent content in frustum on Happy&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://happysxpp.github.io/tags/frustum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the View Frustum</title>
+      <link>https://happysxpp.github.io/blog/view-frustum/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://happysxpp.github.io/blog/view-frustum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

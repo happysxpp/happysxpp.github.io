@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://happysxpp.github.io/</loc>
-    <lastmod>2022-07-25T16:22:30+08:00</lastmod>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://happysxpp.github.io/blog/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://happysxpp.github.io/posts/</loc>
     <lastmod>2022-07-25T16:22:30+08:00</lastmod>
   </url><url>
-    <loc>https://happysxpp.github.io/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://happysxpp.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://happysxpp.github.io/tags/frustum/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://happysxpp.github.io/tags/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://happysxpp.github.io/blog/view-frustum/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://happysxpp.github.io/tags/view-frustm/</loc>
+    <lastmod>2022-07-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://happysxpp.github.io/posts/blog-test-2/</loc>
     <lastmod>2022-07-25T16:22:30+08:00</lastmod>
@@ -36,9 +48,6 @@
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://happysxpp.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://happysxpp.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://happysxpp.github.io/tags/themes/</loc>

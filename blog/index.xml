@@ -6,7 +6,16 @@
     <description>Recent content in Blog Example on Happy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://happysxpp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://happysxpp.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the View Frustum</title>
+      <link>https://happysxpp.github.io/blog/view-frustum/</link>
+      <pubDate>Sun, 31 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://happysxpp.github.io/blog/view-frustum/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://happysxpp.github.io/blog/markdown-syntax/</link>
