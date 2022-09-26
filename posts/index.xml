@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Happy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Jul 2022 16:22:30 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 09:35:27 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper Recording</title>
+      <link>https://happysxpp.github.io/posts/paper_recording/</link>
+      <pubDate>Mon, 26 Sep 2022 09:35:27 +0800</pubDate>
+      
+      <guid>https://happysxpp.github.io/posts/paper_recording/</guid>
+      <description> Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes (CVPR 2022) The training of the auto-encoding task for the continuous and discrete phases in total takes around 7 days on a cluster of eight RTX3090 GPUs, and the training of the image encoder takes around 12 hours. </description>
+    </item>
+    
     <item>
       <title>Blog Test 2</title>
       <link>https://happysxpp.github.io/posts/blog-test-2/</link>

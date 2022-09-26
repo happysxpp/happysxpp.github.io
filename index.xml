@@ -6,7 +6,7 @@
     <description>Recent content in Hugo-Primer on Happy&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://happysxpp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 09:35:27 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://happysxpp.github.io/about/</link>
@@ -16,6 +16,15 @@
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/russross/blackfriday https://github.</description>
+    </item>
+    
+    <item>
+      <title>Paper Recording</title>
+      <link>https://happysxpp.github.io/posts/paper_recording/</link>
+      <pubDate>Mon, 26 Sep 2022 09:35:27 +0800</pubDate>
+      
+      <guid>https://happysxpp.github.io/posts/paper_recording/</guid>
+      <description> Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes (CVPR 2022) The training of the auto-encoding task for the continuous and discrete phases in total takes around 7 days on a cluster of eight RTX3090 GPUs, and the training of the image encoder takes around 12 hours. </description>
     </item>
     
     <item>
