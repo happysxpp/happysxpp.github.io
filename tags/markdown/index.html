@@ -286,4 +286,63 @@ pectora summo.</p>
     <script type="text/x-mathjax-config">MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });</script>
     
   </body>
+    <meta name="viewport" content="width=device-width">
+    <style>
+      html{
+        background: #CCC;
+      }
+      html .sakana-box{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        
+        transform-origin: 50% 100%;  
+      }
+      html .sakana-box-2{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        
+        transform-origin: 100% 100%;  
+      }
+    </style>
+
+    <div class="sakana-box"></div>
+    <div class="sakana-box-2"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/sakana@1.0.8"></script>
+    <script>
+      
+      Sakana.setMute(false);
+
+      
+      const sakana = Sakana.init({
+        
+        el:         '.sakana-box',     
+        character:  'takina',          
+        inertia:    0.01,              
+        decay:      1,              
+        scale:      0.5,                 
+        translateY: 0,                 
+        canSwitchCharacter: false,     
+        onSwitchCharacter(character){  
+          console.log(`${character} dayo~`);
+        },
+      });
+
+      
+      const chisato = Sakana.init({
+        
+        el:         '.sakana-box-2',     
+        character:  'chisato',          
+        inertia:    0.2,              
+        decay:      0.999,              
+        scale:      0.5,                 
+        translateY: 0,                 
+        canSwitchCharacter: false,     
+        onSwitchCharacter(character){  
+          console.log(`${character} dayo~`);
+        },
+      });
+    </script>
 </html>
