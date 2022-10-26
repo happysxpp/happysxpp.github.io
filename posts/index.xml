@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Happy&#39;s Blog</title>
+    <title>Posts on HAPPYXPP&#39;S BLOG</title>
     <link>https://happysxpp.github.io/posts/</link>
-    <description>Recent content in Posts on Happy&#39;s Blog</description>
+    <description>Recent content in Posts on HAPPYXPP&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 26 Sep 2022 09:35:27 +0800</lastBuildDate><atom:link href="https://happysxpp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Mon, 26 Sep 2022 09:35:27 +0800</pubDate>
       
       <guid>https://happysxpp.github.io/posts/paper_recording/</guid>
-      <description> Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes (CVPR 2022) The training of the auto-encoding task for the continuous and discrete phases in total takes around 7 days on a cluster of eight RTX3090 GPUs, and the training of the image encoder takes around 12 hours. </description>
+      <description>Neural Template: Topology-aware Reconstruction and Disentangled Generation of 3D Meshes (CVPR 2022) The training of the auto-encoding task for the continuous and discrete phases in total takes around 7 days on a cluster of eight RTX3090 GPUs, and the training of the image encoder takes around 12 hours.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 25 Jul 2022 16:22:30 +0800</pubDate>
       
       <guid>https://happysxpp.github.io/posts/blog-test-2/</guid>
-      <description>添加文件测试 更新测测试测试</description>
+      <description>添加文件测试 更新测测</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Mon, 25 Jul 2022 15:50:12 +0800</pubDate>
       
       <guid>https://happysxpp.github.io/posts/blog-test/</guid>
-      <description>测试文件 深表遗憾 (Xi Wen Le Jian) My heart is broken. (I&amp;#39;m happy for that.)</description>
+      <description>测试文件 深表遗憾 (Xi Wen</description>
     </item>
     
   </channel>
